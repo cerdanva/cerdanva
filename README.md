@@ -33,4 +33,4 @@ Un software de escritorio para monitorear los parámetros de temperatura, humeda
 - Microservicios con Spring Boot
 - Integración con Docker
 
-Puedes ver más detalles en mis proyectos públicos, o contactarme por [LinkedIn](https://www.linkedin.com/in/juanperez).
+Puedes ver más detalles en mis proyectos públicos, o contactarme por [LinkedIn](https://www.linkedin.com/in/victorcerdan).
