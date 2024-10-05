@@ -1,16 +1,23 @@
-## Hi there 👋
+# Juan Pérez - Portafolio de Proyectos
 
-<!--
-**cerdanva/cerdanva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hola! Soy Juan Pérez, un desarrollador especializado en backend con Java. A continuación, encontrarás algunos de mis proyectos más destacados.
 
-Here are some ideas to get you started:
+## Proyectos Destacados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 1. [Sistema de Gestión de Turnos](https://github.com/tuusuario/proyecto1)
+Un sistema para gestionar citas y turnos médicos, desarrollado con Java y MySQL.
+
+### 2. [Control de Parámetros de Silo](https://github.com/tuusuario/proyecto2)
+Aplicación para monitorear y controlar temperatura, humedad y nivel de gases en silos usando Java y sensores.
+
+### 3. [Juego Educativo de Educación Vial](https://github.com/tuusuario/proyecto3)
+Un juego educativo interactivo sobre normas de tránsito.
+
+## Habilidades Técnicas
+- Java
+- SQL (MySQL, PostgreSQL)
+- Frameworks: Spring Boot, Hibernate
+- Herramientas: Git, Docker, Maven
+
+## Contacto
+- [LinkedIn](https://www.linkedin.com/in/tuperfil)
