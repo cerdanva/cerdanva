@@ -1,23 +1,36 @@
-# Juan Pérez - Portafolio de Proyectos
+# ¡Hola! Soy Cerdan Victor A. 👋
+### Desarrollador Backend | Especialista en Java y Bases de Datos
 
-¡Hola! Soy Juan Pérez, un desarrollador especializado en backend con Java. A continuación, encontrarás algunos de mis proyectos más destacados.
+Bienvenido a mi portafolio de proyectos. Aquí encontrarás algunos de mis trabajos destacados en **Java**, **Bases de datos**, y más. 
 
-## Proyectos Destacados
+## 🚀 Proyectos Destacados
 
-### 1. [Sistema de Gestión de Turnos](https://github.com/tuusuario/proyecto1)
-Un sistema para gestionar citas y turnos médicos, desarrollado con Java y MySQL.
+### [Sistema de Gestión de Turnos](https://github.com/juanperez/gestion-turnos)
+Un sistema para gestionar turnos en un consultorio médico, utilizando Java, MySQL y Swing. Incluye funciones de administración de turnos, pacientes y médicos.
 
-### 2. [Control de Parámetros de Silo](https://github.com/tuusuario/proyecto2)
-Aplicación para monitorear y controlar temperatura, humedad y nivel de gases en silos usando Java y sensores.
+- **Tecnologías:** Java, MySQL, JDBC, Swing
+- **Descripción:** Sistema para registrar, modificar y eliminar turnos, con panel de administración y alertas de disponibilidad.
+- **[Ver Proyecto](https://github.com/juanperez/gestion-turnos)**
 
-### 3. [Juego Educativo de Educación Vial](https://github.com/tuusuario/proyecto3)
-Un juego educativo interactivo sobre normas de tránsito.
+---
 
-## Habilidades Técnicas
-- Java
-- SQL (MySQL, PostgreSQL)
-- Frameworks: Spring Boot, Hibernate
-- Herramientas: Git, Docker, Maven
+### [Aplicación de Control de Silo](https://github.com/juanperez/control-silo)
+Un software de escritorio para monitorear los parámetros de temperatura, humedad y nivel de gases en un silo.
 
-## Contacto
-- [LinkedIn](https://www.linkedin.com/in/tuperfil)
+- **Tecnologías:** Java, MySQL, Arduino, Swing
+- **Descripción:** Aplicación que muestra datos en tiempo real provenientes de sensores conectados a un Arduino.
+- **[Ver Proyecto](https://github.com/juanperez/control-silo)**
+
+## 🛠 Habilidades Técnicas
+- **Lenguajes:** Java, SQL, Python
+- **Bases de Datos:** MySQL, PostgreSQL
+- **Frameworks:** Spring Boot, Hibernate
+- **Otros:** Git, Docker, CI/CD
+
+---
+
+### 🌱 Estoy aprendiendo...
+- Microservicios con Spring Boot
+- Integración con Docker
+
+Puedes ver más detalles en mis proyectos públicos, o contactarme por [LinkedIn](https://www.linkedin.com/in/juanperez).
